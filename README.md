@@ -6,9 +6,9 @@
 - ⚡ Gosto de programação e Mexer em coisas Ocultas do PC & SmartPhone
 <div>
   <a href="https://github.com/Walker10TECH">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Walker10TECH&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Walker10TECH&show_icons=true&theme=dracula&include_all_commits=true&count_private=false" />
   </a>
- <div>
+</div>
   <a href="https://www.facebook.com/profile.php?id=100090616987571">
     <img src="facebook.png" height="50" style="margin-right: 25px;" />
   </a>
