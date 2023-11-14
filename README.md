@@ -10,13 +10,13 @@
   </a>
  <div>
   <a href="https://www.facebook.com/profile.php?id=100090616987571">
-    <img url="https://cdn-icons-png.flaticon.com/512/1836/1836149.png" height="30" style="margin-right: 15px;" />
+    <img src="facebook.png" height="50" style="margin-right: 25px;" />
   </a>
   <a href="https://www.instagram.com/willyan_10_walker/">
-    <img url="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" height="30" style="margin-right: 15px;" />
+    <img src="instagram.png" height="50" style="margin-right: 25px;" />
   </a>
   <a href="https://www.linkedin.com/in/willyan-walker-1a4b80237/">
-    <img url="https://cdn-icons-png.flaticon.com/512/185/185964.png" height="30" />
+    <img src="linkedin.png" height="50" style="margin-right: 25px;" />
   </a>
 </div>
 </div>
